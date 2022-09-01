@@ -1,1 +1,1 @@
-# Machine_Learning_Specialization
+# Machine_Learning_Algorithms
